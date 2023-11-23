@@ -1,0 +1,56 @@
+#navbar {
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 100px;
+}
+#navbar ul li a {
+    display: flex;
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem;
+}
+.ebubg {
+    position: relative;
+    width: 90%;
+    height: 370px;
+    top: 5vh;
+    margin: auto;
+    border-radius: 30px;
+    background-color: rgb(31, 33, 34);
+}
+
+.laexbg {
+    position: relative;
+    width: 90%;
+    height: 370px;
+    top: 5vh;
+    margin: auto;
+    border-radius: 30px;
+    background-color: rgb(31, 33, 34);
+}
+.kullanici-esya {
+    position: relative;
+    display: flex;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    font-weight: bold;
+    border-radius: 8px;
+    top: 10px;
+
+}
+.kullanici-dukkan {
+    position: relative;
+    display: flex;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    font-weight: bold;
+    border-radius: 8px;
+    top: 30px;
+
+}

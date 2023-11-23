@@ -1,0 +1,226 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(40, 43, 46) !important;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#zeta-bg {
+    background: #f1f1f1 url(../image/zeta-bg.png) center center fixed;
+    height: 820px;
+ }
+/* Navbar */
+#navbar {
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0.75rem;
+    height: 70px;
+}
+#navbar ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+#navbar ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem;
+}
+#navbar ul li a:hover {
+    transition: 0.2s;
+    opacity: 0.7;
+    color: rgb(192, 59, 59);
+}
+
+.bg-dark {
+    background: #24292F;
+}
+
+.heading-text {
+    font-size: 1.30rem;
+}
+
+.bilgiler {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 10px;
+}
+
+.info {
+    position: relative;
+    left:20px;
+}
+
+.kullanici-para {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 35%;
+    height: 20%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: 10px;
+}
+
+.kullanici-skin {
+    margin-left: 65%;
+    margin-top: -17%;
+}
+.kullanici-skin img {
+    width: 100%;
+    position: relative;
+    top: -40px;
+}
+
+.kullanici-bisey {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 35%;
+    height: 20%;
+    font-weight: bold;
+    border-radius: 8px;
+
+}
+
+.kullanici-cete {
+    position: relative;
+    display: flex;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 35%;
+    height: 20%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: 30px;
+
+}
+.kullanici-meslek {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 35%;
+    height: 20%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: 20px;
+
+}
+
+.kullanici-ev {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 35%;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.kullanici-ev:hover {
+    transition: 0.2s;
+    background-image: url(https://bilgibotanik.com/wp-content/uploads/2014/07/bg-prlx-big-sky.jpg);
+}
+
+.kullanici-esya {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    /* background-color: #3ab667; */
+    background-color: rgb(43, 49, 63);
+    width: 35%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: 10px;
+
+}
+.kullanici-aranma {
+    position: relative;
+    display: flex;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    /* background-color: rgb(190, 7, 7); */
+    background-color: rgb(43, 49, 63);
+    width: 35%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: 20px;
+}
+
+.kullanici-dukkan {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    /* background-color: #D07000; */
+    background-color: rgb(43, 49, 63);
+    width: 35%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: 30px;
+
+}
+.kullanici-arac {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    /* background-color: #D07000; */
+    background-color: rgb(43, 49, 63);
+    width: 35%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: -12px;
+
+}
+/* .right {
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+    left: -8%;
+} */
+
+.fa-money-bill {
+    color: greenyellow;
+}
+
+.ebubg {
+    position: relative;
+    width: 50%;
+    top: 5vh;
+    margin: auto;
+    border-radius: 30px;
+    background-color: rgb(31, 33, 34);
+}
+
+.laexbg {
+    position: relative;
+    width: 50%;
+    height: 300px;
+    top: 5vh;
+    margin: auto;
+    border-radius: 30px;
+    background-color: rgb(31, 33, 34);
+}

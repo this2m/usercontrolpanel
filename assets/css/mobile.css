@@ -1,0 +1,151 @@
+#navbar {
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 100px;
+}
+#navbar ul li a {
+    display: flex;
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem;
+}
+.ebubg {
+    position: relative;
+    width: 95%;
+    height: 423px;
+    top: 5vh;
+    margin: auto;
+    border-radius: 30px;
+    background-color: rgb(31, 33, 34);
+}
+
+.laexbg {
+    position: relative;
+    width: 95%;
+    height: 423px;
+    top: 5vh;
+    margin: auto;
+    border-radius: 30px;
+    background-color: rgb(31, 33, 34);
+}
+
+.kullanici-para {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 45%;
+    height: 20%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: 10px;
+}
+.kullanici-skin {
+    margin-left: 65%;
+    margin-top: -17%;
+}
+.kullanici-skin img {
+    margin-top: -100%;
+    width: 100%;
+    height: 220px;
+    position: relative;
+    top: -100%;
+}
+
+.kullanici-bisey {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 45%;
+    height: 20%;
+    font-weight: bold;
+    border-radius: 8px;
+
+}
+
+.kullanici-cete {
+    position: relative;
+    color: white;
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 45%;
+    height: 20%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: 30px;
+
+}
+.kullanici-meslek {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 45%;
+    height: 20%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: 20px;
+
+}
+
+.kullanici-ev {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 45%;
+    height: 20%;
+    font-weight: bold;
+    border-radius: 8px;
+
+}
+
+.kullanici-esya {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 45%;
+    height: 20%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: 10px;
+
+}
+.kullanici-aranma {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 45%;
+    height: 20%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: 20px;
+}
+
+.kullanici-dukkan {
+    position: relative;
+    color: white;
+    text-align: left;
+    padding: 10px 5px 5px;
+    background-color: rgb(43, 49, 63);
+    width: 45%;
+    height: 20%;
+    font-weight: bold;
+    border-radius: 8px;
+    top: 30px;
+
+}
